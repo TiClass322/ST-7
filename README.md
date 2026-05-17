@@ -6,7 +6,7 @@
 
 Срок выполнения задания:
 
-**по 17.05.2026** ![Relative date](https://img.shields.io/date/1779051600)
+**по 17.05.2026** ![Relative date](https://img.shields.io/date/1779051600) 
 
 ## Подготовка к выполнению работы
 
